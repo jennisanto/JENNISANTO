@@ -2,7 +2,20 @@
 
 **`Desenvolvedora FullStack`**
 
-Profissional em transição para tecnologia, com formação em Química e experiência em análise de dados. Atualmente cursando Desenvolvimento Full Stack, aprimorando habilidades em programação, banco de dados e metodologias ágeis. Possuo conhecimento em desenvolvimento web, versionamento de código, metodologias ágeis e experiência com Power BI, dashboards e insights estratégicos, além de interesse por Low Code (Mendix). Busco uma oportunidade para aplicar e expandir minhas habilidades em tecnologia.
+Minha jornada começou na Química, onde aprendi a trabalhar com precisão, análise crítica e resolução de problemas complexos. Durante minha experiência em laboratórios, desenvolvi metodologias, interpretei grandes volumes de dados e otimizei processos. Mas foi na tecnologia que encontrei um universo onde posso combinar minha mentalidade analítica com a criação de soluções escaláveis e eficientes.
+
+Hoje, estou em transição para a área de Desenvolvimento Full Stack, construindo uma base sólida em:
+✅ Front-end: HTML, CSS, JavaScript e Python (em aprendizado)
+✅ Back-end: Node.js (em aprendizado)
+✅ Banco de dados: SQL básico
+✅ Ferramentas & Versionamento: Git, GitHub
+✅ Metodologias ágeis: Scrum, Kanban
+✅ BI & Análises de Dados: Conhecimento em Power BI, dashboards e insights estratégicos
+✅ CMS: WordPress (criação e customização de sites)
+
+O que me diferencia? Meu olhar analítico e estruturado, vindo da ciência, aplicado à tecnologia. Meu foco não é apenas programar, mas entender problemas e desenvolver soluções otimizadas, eficientes e escaláveis. Além disso, tenho experiência com gestão e automação de dados, documentação técnica e organização de processos.
+
+📌 Busco oportunidades para aplicar essas habilidades em projetos inovadores, onde eu possa aprender, crescer e gerar impacto.
 
 <p align="left">
     <a href="https://github.com/jennisanto?tab=repositories&sort=stargazers">
