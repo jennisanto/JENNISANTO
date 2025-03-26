@@ -4,14 +4,14 @@
 
 Minha jornada começou na Química, onde aprendi a trabalhar com precisão, análise crítica e resolução de problemas complexos. Durante minha experiência em laboratórios, desenvolvi metodologias, interpretei grandes volumes de dados e otimizei processos. Mas foi na tecnologia que encontrei um universo onde posso combinar minha mentalidade analítica com a criação de soluções escaláveis e eficientes.
 
-Hoje, estou em transição para a área de Desenvolvimento Full Stack, construindo uma base sólida em:
-✅ Front-end: HTML, CSS, JavaScript e Python (em aprendizado)
-✅ Back-end: Node.js (em aprendizado)
-✅ Banco de dados: SQL básico
-✅ Ferramentas & Versionamento: Git, GitHub
-✅ Metodologias ágeis: Scrum, Kanban
-✅ BI & Análises de Dados: Conhecimento em Power BI, dashboards e insights estratégicos
-✅ CMS: WordPress (criação e customização de sites)
+Hoje, estou em transição para a área de Desenvolvimento Full Stack, construindo uma base sólida em:<br>
+<br>✅ Front-end: HTML, CSS, JavaScript e Python (em aprendizado)
+<br>✅ Back-end: Node.js (em aprendizado)
+<br>✅ Banco de dados: SQL básico
+<br>✅ Ferramentas & Versionamento: Git, GitHub
+<br>✅ Metodologias ágeis: Scrum, Kanban
+<br>✅ BI & Análises de Dados: Conhecimento em Power BI, dashboards e insights estratégicos
+<br>✅ CMS: WordPress (criação e customização de sites)
 
 O que me diferencia? Meu olhar analítico e estruturado, vindo da ciência, aplicado à tecnologia. Meu foco não é apenas programar, mas entender problemas e desenvolver soluções otimizadas, eficientes e escaláveis. Além disso, tenho experiência com gestão e automação de dados, documentação técnica e organização de processos.
 
